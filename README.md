@@ -31,7 +31,9 @@ npm run build
 # or
 yarn build
 ```
-
+## Konto administratora
+Email: rafal.antochowski@protonmail.com
+Hasło: Admin134
 
 ## Lista endpointów
 
